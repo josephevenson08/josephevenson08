@@ -9,7 +9,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Raspberry+Pi+Computer+Science+Currently+In+Masters;Part+time+AI+Driven+Projects;Reinforcer+of+Basics;Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Currently+In+Masters;Raspberry+Pi+User;Computer+Science;Part+time+AI+Driven+Projects;Reinforcer+of+Basics;Always+Learning)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,12 +21,12 @@
 Name: Joseph Evenson
 
 Education:
-  - Missouri Southern State University
+  - Missouri Southern State University (Bachelors) (Graduated May 2025, Information Technology)
+  - Saint Louis University (Masters) (Expected Graduation May 2027, Computer Science)
 
 Focus:
-  - Artificial Intelligence
-  - Cybersecurity
-  - Software Engineering
+  - Hardware
+  - Networking
   - Web Development
 
 Languages:
@@ -36,15 +36,10 @@ Languages:
   - JavaScript
   - SQL
 
-Currently Learning:
-  - Cloud Computing
-  - Ethical AI
-  - Penetration Testing
-
 Fun Fact:
-  I enjoy building projects that solve real-world problems.
+  I enjoy building projects that solve my real-world needs.
 ```
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpyNGM3anM3OGhpZHQ1eW4xMXl3eXdudzNtNTFvcmtyY3d4YXJ4aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OzUCnzwGrbG4PmMUUr/giphy.gif" width="100%" />
 ---
 
 # 💻 Tech Stack
