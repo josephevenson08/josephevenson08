@@ -55,10 +55,7 @@ Fun Fact:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josephevenson08&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephevenson08&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=josephevenson08&show_icons=true&theme=github_dark&hide_border=true" />
 
 ---
 
