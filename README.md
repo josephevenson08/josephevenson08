@@ -47,7 +47,7 @@ Fun Fact:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mysql,git,github,visualstudio" />
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,mysql,git,github,visualstudio" />
 
 </div>
 
