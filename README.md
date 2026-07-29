@@ -62,7 +62,7 @@ Fun Fact:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=josephevenson08&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=josephevenson08&theme=tokyonight"/>
 
 </div>
 
