@@ -37,7 +37,7 @@ Languages:
   - SQL
 
 Fun Fact:
-  I enjoy building projects that solve my real-world needs.
+  I enjoy building projects that solve my real-world needs. 
 ```
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpyNGM3anM3OGhpZHQ1eW4xMXl3eXdudzNtNTFvcmtyY3d4YXJ4aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OzUCnzwGrbG4PmMUUr/giphy.gif" width="25%" />
 ---
