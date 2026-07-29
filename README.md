@@ -5,7 +5,7 @@
 ### Computer Science • Information Technology • Cool Hardware Personal Projects
 
 <!-- Replace with your banner GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVwYWszM3EyazRiOWx6bnl3ZTFoOXNrMWVkbmVnOTA3dGJ1Ymk4ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f31DK1KpGsyMU/giphy.gif" width="25%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVwYWszM3EyazRiOWx6bnl3ZTFoOXNrMWVkbmVnOTA3dGJ1Ymk4ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f31DK1KpGsyMU/giphy.gif" width="50%" />
 
 <br>
 
@@ -39,7 +39,7 @@ Languages:
 Fun Fact:
   I enjoy building projects that solve my real-world needs.
 ```
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpyNGM3anM3OGhpZHQ1eW4xMXl3eXdudzNtNTFvcmtyY3d4YXJ4aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OzUCnzwGrbG4PmMUUr/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpyNGM3anM3OGhpZHQ1eW4xMXl3eXdudzNtNTFvcmtyY3d4YXJ4aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OzUCnzwGrbG4PmMUUr/giphy.gif" width="25%" />
 ---
 
 # 💻 Tech Stack
