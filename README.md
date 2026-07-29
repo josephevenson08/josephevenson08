@@ -168,6 +168,6 @@ C#           ███░░░░░░░░░░░░░░░ 10%
 
 ### ⭐ Thanks for stopping by!
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWlnbHFkamFtYWl0ZW9lbm93ZHNraDI5YTc2ZG04anY0djQ0MjJseCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mZ6y42FG8Lpzq/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MW55eHB0ZHN2OW5zaHdub2N1ZTZ4NTI1empsczM3OW1pZ2VyMXlmbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cFdHXXm5GhJsc/giphy.gif" width="50%" />
 
 </div>
