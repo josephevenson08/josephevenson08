@@ -58,12 +58,11 @@ Fun Fact:
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=josephevenson08&show_icons=true&theme=github_dark&hide_border=true" />
 
 ---
-
 # 🔥 Commit Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=josephevenson08&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
