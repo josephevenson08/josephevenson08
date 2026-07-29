@@ -9,7 +9,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+Enthusiast;Cybersecurity+Learner;Full+Stack+Developer;Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Raspberry+Pi+Computer+Science+Currently+In+Masters;Part+time+AI+Driven+Projects;Reinforcer+of+Basics;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 </div>
 
