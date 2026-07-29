@@ -39,7 +39,9 @@ Languages:
 Fun Fact:
   I enjoy building projects that solve my real-world needs. 
 ```
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm8zazQ0ajA1MmJybnBtdnplMnBrZmNzcTdwZzNscHN1cnYzbGprdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26u438LeS0Pf8RGHS/giphy.gif" width="25%" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWQ0ZGVzZDlhcmhzYXFtb2Y3Y2l2cDQ0cmkzbWxwZmczaWJoM3hhYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7VxvaukLmaCWI/giphy.gif" width="48%" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm8zazQ0ajA1MmJybnBtdnplMnBrZmNzcTdwZzNscHN1cnYzbGprdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26u438LeS0Pf8RGHS/giphy.gif" width="25%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTkzejUydjVzeW1na3drZXR6bmRqcDhxMGJvd3hhM3N4ODV5YjhmYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OzUCnzwGrbG4PmMUUr/giphy.gif" width="25%" /> 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWQ0ZGVzZDlhcmhzYXFtb2Y3Y2l2cDQ0cmkzbWxwZmczaWJoM3hhYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7VxvaukLmaCWI/giphy.gif" width="44" /> 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDluaWc0bjV1cHR4d3dyOW55NWxnc3Jja3YxNjltMHYyeXBhejhkaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/toXKzaJP3WIgM/giphy.gif" width="25%" />
 
 ---
 
