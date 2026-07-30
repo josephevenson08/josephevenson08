@@ -97,6 +97,8 @@ Fun Fact:
 <div align="center">
 
 ### WiP
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b2hob3pjazNzaWo1MnZpaDRvMHBjdDM1enF5aGlrNWp4d2k2YzIzZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ropYi9zspAuXe/giphy.gif" width="50%" />
+
 **[TunezBot](https://github.com/josephevenson08/TunezBot)** | Discord music bot: slash commands, queue control, loop, YouTube search + playback. | `JavaScript` `discord.js`
 <br>
 **[project-defeat](https://github.com/josephevenson08/project-defeat)** | Local-first gear / talent / BiS planner for TBC WoW Classic Anniversary. All 9 classes, 27 specs, socket + enchant + crafting-recipe metadata. | `React` `TypeScript` `Vite` 
@@ -107,27 +109,6 @@ Fun Fact:
 <img src="https://img.shields.io/badge/status-in%20progress-FFA500?style=for-the-badge" />
 
 </div>
-
----
-
-# 📈 Coding Activity
-
-<div align="center">
-
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephevenson08&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-<img width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=josephevenson08&theme=github_dark" />
-<img width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josephevenson08&theme=github_dark" />
-
-</div>
-
-<!-- OPTIONAL UPGRADE — real hours-per-language from your editor:
-     1. Sign up at https://wakatime.com, install the plugin for VS Code / JetBrains / Visual Studio
-     2. WakaTime profile settings -> check "Display coding activity publicly"
-     3. Uncomment the block below and set your WakaTime username
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
-</div>
--->
 
 ---
 
@@ -150,7 +131,6 @@ gantt
     section Building
     project-defeat (TBC planner)     :active, pd,  2026-06-01, 2026-12-31
     netpulse (network visibility)    :active, np,  2026-07-01, 2026-11-30
-    Portfolio site                   :         pf,  2026-10-01, 2027-01-31
 
     section Skills
     Advanced AI / ML concepts        :active, ai,  2026-06-01, 2027-05-01
