@@ -58,15 +58,6 @@ Fun Fact:
 
 <br>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josephevenson08&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=josephevenson08&theme=github_dark&utcOffset=-5" />
-
-<br><br>
-
-<!-- Trophy shelf. Ranks scale with account age / followers / stars,
-     so early on expect mostly C/B grades. Delete this block if it looks sparse. -->
-<img src="https://github-profile-trophy.vercel.app/?username=josephevenson08&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" />
-
 </div>
 
 ---
