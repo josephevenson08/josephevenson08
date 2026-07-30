@@ -76,7 +76,7 @@ Fun Fact:
 
 ---
 
-# 📌 Featured Projects
+# Featured Projects
 
 <br>
 
@@ -102,50 +102,6 @@ Fun Fact:
 </div>
 
 ---
-```
-# 🎯 Current Goals
-
-<!-- The ```mermaid fence below is REQUIRED. Without it GitHub prints the
-     chart as plain text. If you copy this file by hand, copy from the Raw
-     view — rendered-page copy/paste strips code fences. -->
-
-```mermaid
-gantt
-    title Roadmap to May 2027
-    dateFormat YYYY-MM-DD
-    axisFormat %b %Y
-    todayMarker stroke-width:3px,stroke:#7aa2f7
-
-    section Academics
-    M.S. Computer Science @ SLU      :active, sch, 2025-08-18, 2027-05-15
-
-    section Building
-    project-defeat (TBC planner)     :active, pd,  2026-06-01, 2026-12-31
-    netpulse (network visibility)    :active, np,  2026-07-01, 2026-11-30
-
-    section Skills
-    Advanced AI / ML concepts        :active, ai,  2026-06-01, 2027-05-01
-    Cybersecurity fundamentals       :active, sec, 2026-07-01, 2027-02-28
-    Cloud (AWS / Azure)              :         cld, 2026-11-01, 2027-04-30
-
-    section Community
-    Open-source contributions        :         oss, 2026-09-01, 2027-05-15
-```
-
-<!-- 📷 GALLERY — commented out so it doesn't render two broken images.
-     Paste real GIF URLs over the placeholders and delete these comment markers.
-
-# 📷 Gallery
-
-<div align="center">
-
-<img src="YOUR_GIF_1_HERE" width="48%" />
-<img src="YOUR_GIF_2_HERE" width="48%" />
-
-</div>
-
----
--->
 
 # 🌎 Connect With Me
 
