@@ -48,13 +48,7 @@ Fun Fact:
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTkzejUydjVzeW1na3drZXR6bmRqcDhxMGJvd3hhM3N4ODV5YjhmYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OzUCnzwGrbG4PmMUUr/giphy.gif" width="25%" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWQ0ZGVzZDlhcmhzYXFtb2Y3Y2l2cDQ0cmkzbWxwZmczaWJoM3hhYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7VxvaukLmaCWI/giphy.gif" width="44%" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDluaWc0bjV1cHR4d3dyOW55NWxnc3Jja3YxNjltMHYyeXBhejhkaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/toXKzaJP3WIgM/giphy.gif" width="30%" />
 
 ---
-
-## 📊 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=josephevenson08&show_icons=true&theme=github_dark&hide_border=true" />
-</div>
----
-# 🔥 Commit Streak
+## 🔥 Commit Streak
 
 <div align="center">
 
