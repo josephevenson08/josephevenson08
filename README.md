@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Joseph Evenson
+# Hi, I'm Joseph Evenson
 
 ### Computer Science • Information Technology • Cool Hardware Personal Projects
 
@@ -21,7 +21,7 @@
 
 ---
 
-# 🚀 About Me
+# About Me
 
 ```yaml
 Name: Joseph Evenson
@@ -50,7 +50,7 @@ Fun Fact:
 
 ---
 
-# ⚡ GitHub Metrics
+# GitHub Metrics
 
 <div align="center">
 
@@ -82,8 +82,8 @@ Fun Fact:
 
 | Project | What it is | Stack |
 |:--|:--|:--|
-| 🩺 **[Posd](https://github.com/josephevenson08/Posd)** | Full-stack doctor–patient records portal, shipped with a portable SQL dump so it runs anywhere. | `React` `Express` `TypeScript` `MySQL` |
-| 🔒 **[DoctorPortal-Backend](https://github.com/josephevenson08/DoctorPortal-Backend)** | REST API with role-based auth, `scrypt` password hashing, session-protected routes, and an audit trail. | `TypeScript` `Drizzle ORM` `MySQL` |
+| **[Posd](https://github.com/josephevenson08/Posd)** | Full-stack doctor–patient records portal, shipped with a portable SQL dump so it runs anywhere. | `React` `Express` `TypeScript` `MySQL` |
+| **[DoctorPortal-Backend](https://github.com/josephevenson08/DoctorPortal-Backend)** | REST API with role-based auth, `scrypt` password hashing, session-protected routes, and an audit trail. | `TypeScript` `Drizzle ORM` `MySQL` |
 
 <div align="center">
 
@@ -101,7 +101,7 @@ Fun Fact:
 
 ---
 
-# 🌎 Connect With Me
+# Connect With Me
 
 <p align="center">
 
@@ -117,7 +117,7 @@ Fun Fact:
 
 <br><br>
 
-### ⭐ Thanks for stopping by!
+### Thanks for stopping by!
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MW55eHB0ZHN2OW5zaHdub2N1ZTZ4NTI1empsczM3OW1pZ2VyMXlmbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cFdHXXm5GhJsc/giphy.gif" width="50%" />
 
