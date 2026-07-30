@@ -66,58 +66,66 @@ Fun Fact:
 
 # ⚡ GitHub Metrics
 
-<div align="center">
+<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josephevenson08&theme=github_dark" /> <br> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josephevenson08&theme=github_dark" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=josephevenson08&theme=github_dark&utcOffset=-5" />
+<br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
-
-</div>
+<!-- Trophy shelf. Ranks scale with account age/followers/stars, so early on expect mostly C/B grades. Delete this block if it looks too sparse. --> <img src="https://github-profile-trophy.vercel.app/?username=josephevenson08&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" /> </div>
 
 ---
 
 # 📅 Contribution Snake
 
-<div align="center">
-
-<!-- You'll generate this using GitHub Actions -->
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josephevenson08/josephevenson08/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josephevenson08/josephevenson08/output/github-contribution-grid-snake.svg" /> <img alt="Contribution grid snake animation" src="https://raw.githubusercontent.com/josephevenson08/josephevenson08/output/github-contribution-grid-snake.svg" /> </picture> <!-- The workflow also builds a Tokyo Night variant that matches the streak card above: github-contribution-grid-snake-tokyonight.svg — swap it in if you prefer. --> </div>
 
 ---
 
 # 📌 Featured Projects
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🌐 Project One | Short description | React • Node |
-| 🤖 Project Two | Short description | Python |
-| 🔒 Project Three | Short description | Cybersecurity |
-| 📱 Project Four | Short description | Android |
-| ☁ Project Five | Short description | Cloud |
+<div align="center"> <a href="https://github.com/josephevenson08/project-defeat"> <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=josephevenson08&repo=project-defeat&theme=github_dark&hide_border=true" /> </a> <a href="https://github.com/josephevenson08/Posd"> <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=josephevenson08&repo=Posd&theme=github_dark&hide_border=true" /> </a> <a href="https://github.com/josephevenson08/DoctorPortal-Backend"> <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=josephevenson08&repo=DoctorPortal-Backend&theme=github_dark&hide_border=true" /> </a> <a href="https://github.com/josephevenson08/TunezBot"> <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=josephevenson08&repo=TunezBot&theme=github_dark&hide_border=true" /> </a> </div> <br> <div align="center">
+⚔️ project-defeat — local-first gear / talent / BiS planner for TBC WoW Classic Anniversary. All 9 classes, 27 specs, socket + enchant + crafting-recipe metadata.  ·  React TypeScript Vite
+
+🩺 Posd — full-stack doctor–patient records portal, shipped with a portable SQL dump so it runs anywhere.  ·  React Express TypeScript MySQL
+
+🔒 DoctorPortal-Backend — REST API with role-based auth, scrypt password hashing, session-protected routes, and an audit trail.  ·  TypeScript Drizzle ORM MySQL
+
+🎵 TunezBot — Discord music bot: slash commands, queue control, loop, YouTube search + playback.  ·  JavaScript discord.js
+
+</div> <br> <div align="center">
+🔨 Currently Building
+🌐 netpulse — at-home network visibility application  ·  Next.js TypeScript
+
+<img src="https://img.shields.io/badge/status-in%20progress-FFA500?style=for-the-badge" /> </div>
 
 ---
 
 # 📈 Coding Activity
-
-<!-- Optional WakaTime -->
-
-```text
-Java         ████████████░░░░░░ 45%
-Python       █████████░░░░░░░░░ 30%
-JavaScript   ███████░░░░░░░░░░░ 15%
-C#           ███░░░░░░░░░░░░░░░ 10%
-```
+<div align="center"> <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephevenson08&layout=compact&theme=github_dark&hide_border=true&langs_count=8" /> <img width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=josephevenson08&theme=github_dark" /> <img width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josephevenson08&theme=github_dark" /> </div> <!-- OPTIONAL UPGRADE — real hours-per-language from your editor: 1. Sign up at https://wakatime.com and install the plugin for VS Code / JetBrains / Visual Studio 2. Profile settings → check "Display coding activity publicly" 3. Uncomment the card below and set your WakaTime username <div align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=github_dark&hide_border=true" /> </div> -->
 
 ---
 
 # 🎯 Current Goals
+<!-- GitHub renders Mermaid natively. Adjust the dates — these are a starting sketch. -->
+gantt
+    title Roadmap to May 2027
+    dateFormat YYYY-MM-DD
+    axisFormat %b %Y
+    todayMarker stroke-width:3px,stroke:#7aa2f7
 
-- 🔭 Building portfolio-worthy projects
-- 🌱 Learning advanced AI concepts
-- 🔐 Improving cybersecurity skills
-- 🤝 Contributing to open source
-- ☁ Learning cloud technologies
+    section Academics
+    M.S. Computer Science @ SLU      :active, sch, 2025-08-18, 2027-05-15
+
+    section Building
+    project-defeat (TBC planner)     :active, pd,  2026-06-01, 2026-12-31
+    netpulse (network visibility)    :active, np,  2026-07-01, 2026-11-30
+    Portfolio site                   :         pf,  2026-10-01, 2027-01-31
+
+    section Skills
+    Advanced AI / ML concepts        :active, ai,  2026-06-01, 2027-05-01
+    Cybersecurity fundamentals       :active, sec, 2026-07-01, 2027-02-28
+    Cloud (AWS / Azure)              :         cld, 2026-11-01, 2027-04-30
+
+    section Community
+    Open-source contributions        :         oss, 2026-09-01, 2027-05-15
 
 ---
 
