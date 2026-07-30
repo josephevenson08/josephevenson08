@@ -9,10 +9,13 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Currently+In+Masters;Raspberry+Pi+User;Computer+Science;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Currently+In+Masters;Computer+Science;)](https://git.io/typing-svg)
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Partial+AI+Driven+Projects;Reinforcer+of+Basics;Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Partial+AI+Driven+Projects;Reinforcer+of+Basics;;Raspberry+Pi+Learner;)](https://git.io/typing-svg)
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=python;js;nodejs;mysql;git;github;visualstudio;)](https://git.io/typing-svg)
 
 </div>
 
@@ -43,16 +46,6 @@ Fun Fact:
   I enjoy building projects that solve my real-world needs. 
 ```
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTkzejUydjVzeW1na3drZXR6bmRqcDhxMGJvd3hhM3N4ODV5YjhmYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OzUCnzwGrbG4PmMUUr/giphy.gif" width="25%" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWQ0ZGVzZDlhcmhzYXFtb2Y3Y2l2cDQ0cmkzbWxwZmczaWJoM3hhYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7VxvaukLmaCWI/giphy.gif" width="44%" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDluaWc0bjV1cHR4d3dyOW55NWxnc3Jja3YxNjltMHYyeXBhejhkaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/toXKzaJP3WIgM/giphy.gif" width="30%" />
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,mysql,git,github,visualstudio" />
-
-</div>
 
 ---
 
