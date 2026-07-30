@@ -111,7 +111,7 @@ Fun Fact:
 </div>
 
 ---
-
+```
 # 🎯 Current Goals
 
 <!-- The ```mermaid fence below is REQUIRED. Without it GitHub prints the
@@ -140,17 +140,6 @@ gantt
     section Community
     Open-source contributions        :         oss, 2026-09-01, 2027-05-15
 ```
-
-| | Goal | Status |
-|:--:|:--|:--|
-| 🔭 | Building portfolio-worthy projects | ![](https://img.shields.io/badge/in%20progress-3FB950?style=flat-square) |
-| 🌱 | Learning advanced AI concepts | ![](https://img.shields.io/badge/in%20progress-3FB950?style=flat-square) |
-| 🔐 | Improving cybersecurity skills | ![](https://img.shields.io/badge/in%20progress-3FB950?style=flat-square) |
-| 🤝 | Contributing to open source | ![](https://img.shields.io/badge/queued-8B949E?style=flat-square) |
-| ☁️ | Learning cloud technologies | ![](https://img.shields.io/badge/queued-8B949E?style=flat-square) |
-| 🎓 | M.S. Computer Science | ![](https://img.shields.io/badge/May%202027-58A6FF?style=flat-square) |
-
----
 
 <!-- 📷 GALLERY — commented out so it doesn't render two broken images.
      Paste real GIF URLs over the placeholders and delete these comment markers.
