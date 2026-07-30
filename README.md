@@ -95,7 +95,7 @@ Fun Fact:
 
 | Project | What it is | Stack |
 |:--|:--|:--|
-| **[TunezBot](https://github.com/josephevenson08/TunezBot)** | Discord music bot: slash commands, queue control, loop, YouTube search + playback. | `JavaScript` `discord.js` |
+| **[TunezBot](https://github.com/josephevenson08/TunezBot)** | Discord music bot with Raspberry Pi 24/7 setup: slash commands, queue control, loop, YouTube search + playback.  | `JavaScript` `discord.js` |
 | **[project-defeat](https://github.com/josephevenson08/project-defeat)** | Local-first gear / talent / BiS planner for TBC WoW Classic Anniversary. All 9 classes, 27 specs, socket + enchant + crafting-recipe metadata. | `React` `TypeScript` `Vite` |
 | **[netpulse](https://github.com/josephevenson08/netpulse)** | At-home network visibility application + Raspberry Pi | `Next.js` `TypeScript` |
 <br>
