@@ -91,16 +91,15 @@ Fun Fact:
 
 | Project | What it is | Stack |
 |:--|:--|:--|
-| ⚔️ **[project-defeat](https://github.com/josephevenson08/project-defeat)** | Local-first gear / talent / BiS planner for TBC WoW Classic Anniversary. All 9 classes, 27 specs, socket + enchant + crafting-recipe metadata. | `React` `TypeScript` `Vite` |
 | 🩺 **[Posd](https://github.com/josephevenson08/Posd)** | Full-stack doctor–patient records portal, shipped with a portable SQL dump so it runs anywhere. | `React` `Express` `TypeScript` `MySQL` |
 | 🔒 **[DoctorPortal-Backend](https://github.com/josephevenson08/DoctorPortal-Backend)** | REST API with role-based auth, `scrypt` password hashing, session-protected routes, and an audit trail. | `TypeScript` `Drizzle ORM` `MySQL` |
-| 🎵 **[TunezBot](https://github.com/josephevenson08/TunezBot)** | Discord music bot: slash commands, queue control, loop, YouTube search + playback. | `JavaScript` `discord.js` |
 
 <div align="center">
 
-### 🔨 Currently Building
-
-🌐 **[netpulse](https://github.com/josephevenson08/netpulse)** — at-home network visibility application &nbsp;·&nbsp; `Next.js` `TypeScript`
+### WiP
+**[TunezBot](https://github.com/josephevenson08/TunezBot)** | Discord music bot: slash commands, queue control, loop, YouTube search + playback. | `JavaScript` `discord.js` |
+**[project-defeat](https://github.com/josephevenson08/project-defeat)** | Local-first gear / talent / BiS planner for TBC WoW Classic Anniversary. All 9 classes, 27 specs, socket + enchant + crafting-recipe metadata. | `React` `TypeScript` `Vite` 
+**[netpulse](https://github.com/josephevenson08/netpulse)** — at-home network visibility application &nbsp;·&nbsp; `Next.js` `TypeScript`
 
 <img src="https://img.shields.io/badge/status-in%20progress-FFA500?style=for-the-badge" />
 
