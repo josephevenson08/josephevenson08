@@ -93,12 +93,12 @@ Fun Fact:
 <h1>WiP</h1>
 <br>
 
-**[TunezBot](https://github.com/josephevenson08/TunezBot)** | Discord music bot: slash commands, queue control, loop, YouTube search + playback. | `JavaScript` `discord.js`
+| Project | What it is | Stack |
+|:--|:--|:--|
+| **[TunezBot](https://github.com/josephevenson08/TunezBot)** | Discord music bot: slash commands, queue control, loop, YouTube search + playback. | `JavaScript` `discord.js` |
+| **[project-defeat](https://github.com/josephevenson08/project-defeat)** | Local-first gear / talent / BiS planner for TBC WoW Classic Anniversary. All 9 classes, 27 specs, socket + enchant + crafting-recipe metadata. | `React` `TypeScript` `Vite` |
+| **[netpulse](https://github.com/josephevenson08/netpulse)** — at-home network visibility application &nbsp;·&nbsp; `Next.js` `TypeScript` |
 <br>
-**[project-defeat](https://github.com/josephevenson08/project-defeat)** | Local-first gear / talent / BiS planner for TBC WoW Classic Anniversary. All 9 classes, 27 specs, socket + enchant + crafting-recipe metadata. | `React` `TypeScript` `Vite` 
-<br>
-**[netpulse](https://github.com/josephevenson08/netpulse)** — at-home network visibility application &nbsp;·&nbsp; `Next.js` `TypeScript`
-**<br>**
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFqbXNydndlZ2Rtem4xc3dicW1jZHRhZGx1anY5aWlpNXV1a201dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3q2tzon8OCC7BqmY/giphy.gif" width="50%" />
 
