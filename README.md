@@ -90,7 +90,7 @@ Fun Fact:
 
 
 <div align="center">
-<h2>WiP</h2>
+<h2>WiP aka projects that are me</h2>
 <br>
 
 | Project | What it is | Stack |
