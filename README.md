@@ -74,12 +74,6 @@ Fun Fact:
 
 </div>
 
-<!-- ⚠️ THIS IMAGE IS BROKEN UNTIL YOU ADD THE WORKFLOW.
-     Add .github/workflows/snake.yml to THIS repo, then run it once from the
-     Actions tab. It creates the `output` branch these URLs point at.
-     The workflow also builds a Tokyo Night variant that matches the streak
-     card above: github-contribution-grid-snake-tokyonight.svg -->
-
 ---
 
 # 📌 Featured Projects
