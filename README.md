@@ -97,8 +97,6 @@ Fun Fact:
 **[netpulse](https://github.com/josephevenson08/netpulse)** — at-home network visibility application &nbsp;·&nbsp; `Next.js` `TypeScript`
 **<br>**
 
-<img src="https://img.shields.io/badge/status-in%20progress-FFA500?style=for-the-badge" />
-
 </div>
 
 ---
