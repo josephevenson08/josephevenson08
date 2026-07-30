@@ -12,7 +12,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Partial+AI+Driven+Projects;Reinforcer+of+Basics;;Raspberry+Pi+Learner;)](https://git.io/typing-svg)
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=python;js;nodejs;mysql;git;github;visualstudio;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=500&center=true&vCenter=true&width=700&lines=python;js;nodejs;mysql;git;github;visualstudio;)](https://git.io/typing-svg)
 
 </div>
 
