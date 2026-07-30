@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Currently+In+Masters;Computer+Science;Information+Technology;Cool+Personal+Projects;)](https://git.io/typing-svg)
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Partial+AI+Driven+Projects;Reinforcer+of+Basics;;Raspberry+Pi+Learner;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Partial+AI+Driven+Projects;Reinforcer+of+Basics;;Raspberry+Pi+Learner;Networks;)](https://git.io/typing-svg)
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Claude;ChatGPT;Grok;Odysseus;Copilot;Codex;Obsidian;)](https://git.io/typing-svg)
