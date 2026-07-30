@@ -79,7 +79,7 @@ Fun Fact:
 
 <div align="center">
 <h1>Featured Projects</h1>
-
+<h2>Projects I've done for Education</h2>
 <br>
 
 | Project | What it is | Stack |
@@ -90,7 +90,7 @@ Fun Fact:
 
 
 <div align="center">
-<h1>WiP</h1>
+<h2>WiP</h2>
 <br>
 
 | Project | What it is | Stack |
