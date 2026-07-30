@@ -50,26 +50,6 @@ Fun Fact:
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=josephevenson08&show_icons=true&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
-# 🔥 Commit Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=josephevenson08&theme=tokyonight"/>
-
-</div>
-
----
-
 # ⚡ GitHub Metrics
 
 <div align="center">
