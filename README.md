@@ -78,7 +78,7 @@ Fun Fact:
 ---
 
 <div align="center">
-# Featured Projects
+### Featured Projects
 
 <br>
 
@@ -87,9 +87,10 @@ Fun Fact:
 | **[Posd](https://github.com/josephevenson08/Posd)** | Full-stack doctor–patient records portal, shipped with a portable SQL dump so it runs anywhere. | `React` `Express` `TypeScript` `MySQL` |
 | **[DoctorPortal-Backend](https://github.com/josephevenson08/DoctorPortal-Backend)** | REST API with role-based auth, `scrypt` password hashing, session-protected routes, and an audit trail. | `TypeScript` `Drizzle ORM` `MySQL` |
 <br>
+---
 
 <div align="center">
-# WiP
+### WiP
 <br>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFqbXNydndlZ2Rtem4xc3dicW1jZHRhZGx1anY5aWlpNXV1a201dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3q2tzon8OCC7BqmY/giphy.gif" width="50%" />
