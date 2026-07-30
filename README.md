@@ -96,7 +96,7 @@ Fun Fact:
 
 <div align="center">
 
-### WiP
+#WiP
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b2hob3pjazNzaWo1MnZpaDRvMHBjdDM1enF5aGlrNWp4d2k2YzIzZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ropYi9zspAuXe/giphy.gif" width="50%" />
 
 **[TunezBot](https://github.com/josephevenson08/TunezBot)** | Discord music bot: slash commands, queue control, loop, YouTube search + playback. | `JavaScript` `discord.js`
