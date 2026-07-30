@@ -9,7 +9,8 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Currently+In+Masters;Raspberry+Pi+User;Computer+Science;Partial+AI+Driven+Projects;Reinforcer+of+Basics;Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Currently+In+Masters;Raspberry+Pi+User;Computer+Science;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Partial+AI+Driven+Projects;Reinforcer+of+Basics;Always+Learning)](https://git.io/typing-svg)
 
 </div>
 
