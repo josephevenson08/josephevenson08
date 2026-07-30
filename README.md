@@ -97,9 +97,12 @@ Fun Fact:
 <div align="center">
 
 ### WiP
-**[TunezBot](https://github.com/josephevenson08/TunezBot)** | Discord music bot: slash commands, queue control, loop, YouTube search + playback. | `JavaScript` `discord.js` |
-| **[project-defeat](https://github.com/josephevenson08/project-defeat)** | Local-first gear / talent / BiS planner for TBC WoW Classic Anniversary. All 9 classes, 27 specs, socket + enchant + crafting-recipe metadata. | `React` `TypeScript` `Vite` 
-| **[netpulse](https://github.com/josephevenson08/netpulse)** — at-home network visibility application &nbsp;·&nbsp; `Next.js` `TypeScript`
+**[TunezBot](https://github.com/josephevenson08/TunezBot)** | Discord music bot: slash commands, queue control, loop, YouTube search + playback. | `JavaScript` `discord.js`
+<br>
+**[project-defeat](https://github.com/josephevenson08/project-defeat)** | Local-first gear / talent / BiS planner for TBC WoW Classic Anniversary. All 9 classes, 27 specs, socket + enchant + crafting-recipe metadata. | `React` `TypeScript` `Vite` 
+<br>
+**[netpulse](https://github.com/josephevenson08/netpulse)** — at-home network visibility application &nbsp;·&nbsp; `Next.js` `TypeScript`
+**<br>**
 
 <img src="https://img.shields.io/badge/status-in%20progress-FFA500?style=for-the-badge" />
 
