@@ -78,15 +78,6 @@ Fun Fact:
 
 # 📌 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/josephevenson08/project-defeat"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=josephevenson08&repo=project-defeat&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/josephevenson08/Posd"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=josephevenson08&repo=Posd&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/josephevenson08/DoctorPortal-Backend"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=josephevenson08&repo=DoctorPortal-Backend&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/josephevenson08/TunezBot"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=josephevenson08&repo=TunezBot&theme=github_dark&hide_border=true" /></a>
-
-</div>
-
 <br>
 
 | Project | What it is | Stack |
