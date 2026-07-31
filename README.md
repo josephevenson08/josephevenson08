@@ -117,7 +117,7 @@ Fun Fact:
 
 <div align="center">
 
-<br.
+<br>
 
 ### Thanks for stopping by!
 
