@@ -82,7 +82,7 @@ Fun Fact:
 | Project | What it is | Stack |
 |:--|:--|:--|
 | **[Posd](https://github.com/josephevenson08/Posd)** | Full-stack doctor–patient records portal, shipped with a portable SQL dump so it runs anywhere. | `React` `Express` `TypeScript` `MySQL` |
-| **[DoctorPortal-Backend](https://github.com/josephevenson08/DoctorPortal-Backend)** | Full stack deployment of a example Doctor Portal Backend / Meant to be paired with Posd project / `scrypt` password hashing, session-protected routes, and an audit trail. | `TypeScript` `Drizzle ORM` `MySQL` |
+| **[DoctorPortal-Backend](https://github.com/josephevenson08/DoctorPortal-Backend)** | Posd Project Backend / `scrypt` password hashing, session-protected routes, and an audit trail. | `TypeScript` `Drizzle ORM` `MySQL` |
 <br>
 
 
