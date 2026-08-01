@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Joseph Evenson
+# I'm Joseph Evenson
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVwYWszM3EyazRiOWx6bnl3ZTFoOXNrMWVkbmVnOTA3dGJ1Ymk4ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f31DK1KpGsyMU/giphy.gif" width="50%" />
 <br>
