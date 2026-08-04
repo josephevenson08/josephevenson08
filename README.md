@@ -80,7 +80,7 @@ Fun Fact:
 |:--|:--|:--|
 | **[Posd](https://github.com/josephevenson08/Posd)** | Full-stack doctor–patient records portal, shipped with a portable SQL dump so it runs anywhere. | `React` `Express` `TypeScript` `MySQL` |
 | **[DoctorPortal-Backend](https://github.com/josephevenson08/DoctorPortal-Backend)** | Posd Project Backend / `scrypt` password hashing, session-protected routes, and an audit trail. | `TypeScript` `Drizzle ORM` `MySQL` |
-| **[CapstoneIoT](https://github.com/josephevenson08/CapstoneIoT)** | Capstone — smart keypad + lock system prototyped in Wokwi. ESP32 sketch for passcode entry and lock control, a Python log server, Blynk cloud monitoring, ML anomaly detection over the attempt logs, and results dashboarded in Power BI. | `Python` `C++` `ESP32` `Wokwi` `Blynk` `Power BI` |
+| **[CapstoneIoT](https://github.com/josephevenson08/CapstoneIoT)** | Capstone — smart keypad + lock system prototyped in Wokwi(online sim). ESP32 sketch for passcode entry and lock control, a Python log server, Blynk cloud monitoring, ML anomaly detection over the attempt logs, and results dashboarded in Power BI. | `Python` `C++` `ESP32` `Wokwi` `Blynk` `Power BI` |
 | **[IoT-Home-Automation](https://github.com/josephevenson08/IoT-Home-Automation-Mid-Term-1)** | ESP32 home automation rig — DHT22 temp/humidity sensor, 4x relay module, PIR motion sensor, and a 16x2 I2C LCD. | `C++` `ESP32` `Arduino` |
 <br>
 
