@@ -19,7 +19,6 @@
 ---
 
 ```yaml
-About Me
 Name: Joseph Evenson
 
 Education:
