@@ -51,7 +51,7 @@ Fun Fact:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josephevenson08&theme=github_dark" width="100%" />
+![GitHub Metrics](/github-metrics.svg)
 
 </div>
 
