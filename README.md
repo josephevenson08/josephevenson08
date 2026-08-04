@@ -100,6 +100,7 @@ Fun Fact:
 | **[netpulse](https://github.com/josephevenson08/netpulse)** | At-home network visibility application + Raspberry Pi | `Next.js` `TypeScript` |
 <br>
 
+<div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFqbXNydndlZ2Rtem4xc3dicW1jZHRhZGx1anY5aWlpNXV1a201dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3q2tzon8OCC7BqmY/giphy.gif" width="50%" />
 
 </div>
