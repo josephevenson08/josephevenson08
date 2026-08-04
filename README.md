@@ -85,7 +85,7 @@ Fun Fact:
 <br>
 
 
-<h2> WiP aka projects that are me</h2>
+<h2> WiP aka Projects that are Me</h2>
 <h3> Summer 2026 is when I really went and did things I wanted to do, things I've thought about in the past. </h3>
 <h4> <strong> TunezBot </strong> came up one night while in call in discord when our music bot wasn't working the way my friends and I wanted it to so I thought to myself, I wonder if I could make it and things went from there. Things should be done soon hopefully for that project. </h4>
 <h4> <strong> ProjectDefeat </strong> is something that I've wanted for over a year now. I wanted something that I could have where I could get all the information I wanted for when I was playing World of Warcraft with my buddies. That said, this project will always be a work in progress but it is mostly just a way to keep my skills up to date and also keep my knowledge of the game up to date as well. I wanted to combine something I love doing with something I could do, aka development. </h4>
@@ -122,7 +122,7 @@ Fun Fact:
 
 <br>
 
-### Thanks for stopping by!
+### Thanks for stopping by! Stay tuned for more!
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MW55eHB0ZHN2OW5zaHdub2N1ZTZ4NTI1empsczM3OW1pZ2VyMXlmbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cFdHXXm5GhJsc/giphy.gif" width="50%" />
 
