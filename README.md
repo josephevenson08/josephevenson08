@@ -35,9 +35,9 @@ Focus:
 Languages:
   - Java
   - Python
-  - C#
   - JavaScript
   - SQL
+  - C#
 
 Fun Fact:
   I enjoy building projects that solve my real-world needs.
