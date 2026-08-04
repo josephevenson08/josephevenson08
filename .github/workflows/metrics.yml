@@ -14,7 +14,7 @@ jobs:
       - name: Validate METRICS_TOKEN
         run: |
           if [ -z "${{ secrets.METRICS_TOKEN }}" ]; then
-            echo "::error::METRICS_TOKEN secret is not set. Create a PAT with 'repo' and 'read:packages' scopes and add it as METRICS_TOKEN."
+            echo "::error::METRICS_TOKEN secret is not set."
             exit 1
           fi
 
