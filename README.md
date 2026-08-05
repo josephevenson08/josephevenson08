@@ -98,6 +98,7 @@ Fun Fact:
 | **[TunezBot](https://github.com/josephevenson08/TunezBot)** | Discord music bot with Raspberry Pi 24/7 setup: slash commands, queue control, loop, YouTube search + playback. Suspected complete date is Early September 2026 | `JavaScript` `discord.js` |
 | **[project-defeat](https://github.com/josephevenson08/project-defeat)** | All in one stop for TBC Anniversary information / BiS Planner / Guides / Farming / Sims / etc. All 9 classes, 27 specs, socket + enchant + crafting-recipe metadata. | `React` `TypeScript` `Vite` |
 | **[netpulse](https://github.com/josephevenson08/netpulse)** | At-home network visibility application + Raspberry Pi | `Next.js` `TypeScript` |
+| **[MERN Thinkboard](https://github.com/josephevenson08/netpulse)** | Built and deployed a fully functional REST API and modern web app | `MERN Stack |
 <br>
 
 <div align="center">
