@@ -1,6 +1,6 @@
 <div align="center">
 
-# I'm Joseph Evenson
+# Joseph Evenson
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVwYWszM3EyazRiOWx6bnl3ZTFoOXNrMWVkbmVnOTA3dGJ1Ymk4ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f31DK1KpGsyMU/giphy.gif" width="50%" />
 <br>
@@ -26,12 +26,11 @@ Education:
   - Saint Louis University (Masters) (Expected Graduation May 2027, Computer Science)
 
 Focus:
-  - Hardware
-  - Networking
+  - Interested in Hardware limitations
+  - Networking 
   - Web Development
 
 Languages:
-  - Java
   - Python
   - JavaScript
   - SQL
