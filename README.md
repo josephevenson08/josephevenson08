@@ -87,6 +87,7 @@ Fun Fact:
 <h4> <strong> TunezBot </strong> came up one night while in call on discord when our music bot wasn't working the way my friends and I wanted it to so I thought to myself, I wonder if I could make a music bot. Things went from there. TunezBot should be done soon hopefully for this project. </h4>
 <h4> <strong> ProjectDefeat </strong> is something that I've wanted for over a year now. I wanted something that I could have where I could get all the information I wanted for when I was playing World of Warcraft with my buddies. That said, this project will always be a work in progress but it is mostly just a way to keep my skills up to date and also keep my knowledge of the game up to date as well. I wanted to combine something I love doing with something I could do, aka development. </h4>
 <h4> <strong> NetPulse </strong> is something that I've thought about more recently, I've kind of been on a hardware stint this 2026 summer and because of that I want to make a personal network reporter with a digital screen that reports back what my network is like. </h4>
+<h4> >strong> wow tbc anniversary marks of the illidari-calculator</h4> is a calculator for distributing marks of the illidari, an in game item from world of warcraft tbc phase 3, this is used by the officals of a raid team to calculate distribution of this in game item back to their raid team.
   
 <h3>These are the things I'm working on, + this personal profile README, but more things are for sure to come. </h3>
 
@@ -97,7 +98,8 @@ Fun Fact:
 | **[TunezBot](https://github.com/josephevenson08/TunezBot)** | Discord music bot with Raspberry Pi 24/7 setup: slash commands, queue control, loop, YouTube search + playback. Suspected complete date is Early September 2026 | `JavaScript` `discord.js` |
 | **[project-defeat](https://github.com/josephevenson08/project-defeat)** | All in one stop for TBC Anniversary information / BiS Planner / Guides / Farming / Sims / etc. All 9 classes, 27 specs, socket + enchant + crafting-recipe metadata. | `React` `TypeScript` `Vite` |
 | **[netpulse](https://github.com/josephevenson08/netpulse)** | At-home network visibility application + Raspberry Pi | `Next.js` `TypeScript` |
-| **[MERN Thinkboard](https://github.com/josephevenson08/MERN-THINKBOARD)** | Built and deployed a fully functional REST API and modern web app | `MERN Stack` |
+| **[Wow tbc Marks of the Illidari Calculator]([https://github.com/josephevenson08/MERN-THINKBOARD](https://github.com/josephevenson08/wow-tbc-anniversary-marks-of-the-illidari-calculator.git
+))** | Calculator for marks of the Illidari| `In-game Calculator` |
 <br>
 
 <div align="center">
