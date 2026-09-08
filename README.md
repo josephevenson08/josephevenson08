@@ -22,8 +22,8 @@
 Name: Joseph Evenson
 
 Education:
-  - Missouri Southern State University (Bachelors) (Graduated May 2025, Information Technology)
-  - Saint Louis University (Masters) (Expected Graduation May 2027, Computer Science)
+  - Missouri Southern State University (B.S.) (Graduated May 2025, Information Technology)
+  - Saint Louis University (M.S.) (Expected Graduation May 2027, Computer Science)
 
 Focus:
   - Interested in Hardware limitations
