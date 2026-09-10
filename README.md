@@ -27,7 +27,7 @@ Education:
 
 Focus:
   - Interested in Hardware limitations
-  - Networking 
+  - Networking / Blue Team
   - Web Development
 
 Languages:
