@@ -69,7 +69,7 @@ Fun Fact:
 
 ---
 
-<h1>Featured Projects</h1>
+<h1>Projects</h1>
 <h2>Projects I've done for Education</h2>
 <br>
 
