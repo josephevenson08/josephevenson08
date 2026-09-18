@@ -90,7 +90,7 @@ Fun Fact:
 <h4> <strong> NetPulse </strong> is something that I've thought about more recently, I've kind of been on a hardware stint this 2026 summer and because of that I want to make a personal network reporter with a digital screen that reports back what my network is like. </h4>
 <h4> <strong> wow tbc anniversary marks of the illidari-calculator </strong> is a calculator for distributing marks of the illidari, an in game item from world of warcraft tbc phase 3, this is used by the officals of a raid team to calculate distribution of this in game item back to their raid team. </h4>
   
-<h3>These are the things I'm working on, + this personal profile README, but more things are for sure to come. </h3>
+<h3>These are the things I'm working on, + this personal profile README, but more things, are for sure, to come. </h3>
 
 <br>
 
