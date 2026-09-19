@@ -125,7 +125,7 @@ Fun Fact:
 
 <br>
 
-### Thanks for stopping by! Stay tuned for more!
+### Check back often to see more updates!
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MW55eHB0ZHN2OW5zaHdub2N1ZTZ4NTI1empsczM3OW1pZ2VyMXlmbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cFdHXXm5GhJsc/giphy.gif" width="50%" />
 
