@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVwYWszM3EyazRiOWx6bnl3ZTFoOXNrMWVkbmVnOTA3dGJ1Ymk4ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f31DK1KpGsyMU/giphy.gif" width="50%" />
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Currently+In+Masters;Computer+Science;Information+Technology;Cool+Personal+Projects;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Information+Systems+B.S.;Computer+Science+M.S.;Information+Technology;Cool+Personal+Projects;)](https://git.io/typing-svg)
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Partial+AI+Driven+Projects;Reinforcer+of+Basics;;Raspberry+Pi+Learner;Networks;)](https://git.io/typing-svg)
