@@ -2,145 +2,157 @@
 
 # Joseph Evenson
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVwYWszM3EyazRiOWx6bnl3ZTFoOXNrMWVkbmVnOTA3dGJ1Ymk4ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f31DK1KpGsyMU/giphy.gif" width="52%" />
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="20%" />
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Information+Systems+B.S.;Computer+Science+M.S.;Information+Technology;Hardware+%7C+Networking+%7C+Web+Development)](https://github.com/josephevenson08)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1200&color=7C3AED&center=true&vCenter=true&width=820&lines=Information+Systems+B.S.;Computer+Science+M.S.;Hardware+%2B+Software;Building+what+I+need;Making+ideas+work)](https://github.com/josephevenson08)
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Partial+AI+Driven+Projects;Reinforcer+of+Basics;Raspberry+Pi+Leader;Building+for+real+needs)](https://github.com/josephevenson08)
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Claude;ChatGPT;Grok;Odysseus;Copilot;Codex;Obsidian)](https://github.com/josephevenson08)
-
-<br>
+[![GitHub followers](https://img.shields.io/github/followers/josephevenson08?style=social)](https://github.com/josephevenson08)
+[![GitHub stars](https://img.shields.io/github/stars/josephevenson08?style=social)](https://github.com/josephevenson08)
+[![Email](https://img.shields.io/badge/Email-josephevenson37%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:josephevenson37@gmail.com)
 
 </div>
 
 ---
 
-## Profile Snapshot
+## About
 
-```yaml
-Name: Joseph Evenson
+I build things because I want them to be useful, practical, and a little interesting.
 
-Education:
-  - Missouri Southern State University (B.S.) (Graduated May 2025, Information Technology)
-  - Saint Louis University (M.S.) (Expected Graduation May 2027, Computer Science)
+My work sits at the intersection of:
+- Hardware and embedded systems
+- Networking / security fundamentals
+- Web development and full-stack work
+- Raspberry Pi projects and automation
+- Building tools that solve real problems
 
-Focus:
-  - Interested in Hardware limitations
-  - Networking / Blue Team
-  - Web Development
+I like projects that are rooted in real-world needs — and I also enjoy creating things inspired by the games I play and the systems I love exploring.
 
-Languages:
-  - Python
-  - JavaScript
-  - SQL
-  - C#
+---
 
-Fun Fact:
-  I enjoy building projects that solve my real-world needs.
-  I also enjoy building projects based off games I play.
-```
+## Snapshot
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTkzejUydjVzeW1na3drZXR6bmRqcDhxMGJvd3hhM3N4ODV5YjhmYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OzUCnzwGrbG4PmMUUr/giphy.gif" width="25%" />
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFqbXNydndlZ2Rtem4xc3dicW1jZHRhZGx1anY5aWlpNXV1a201dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3q2tzon8OCC7BqmY/giphy.gif" width="25%" />
+<table>
+  <tr>
+    <td width="50%" valign="top" align="left">
+
+<strong>Education</strong><br>
+• Missouri Southern State University — B.S. in Information Technology (May 2025)<br>
+• Saint Louis University — M.S. in Computer Science (Expected May 2027)
+
+    </td>
+    <td width="50%" valign="top" align="left">
+
+<strong>Focus</strong><br>
+• Hardware limitations and practical engineering<br>
+• Networking / Blue Team / security basics<br>
+• Web development and application systems<br>
+• Smart tools, automation, and Raspberry Pi builds
+
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## GitHub Metrics
-
-<div align="center">
-
-![GitHub Metrics](/github-metrics.svg)
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josephevenson08/josephevenson08/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josephevenson08/josephevenson08/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution grid snake animation" src="https://raw.githubusercontent.com/josephevenson08/josephevenson08/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-# Projects
-
-## Projects I've done for Education
-
-<br>
-
-| Project | What it is | Stack |
-|:--|:--|:--|
-| **[Posd](https://github.com/josephevenson08/Posd)** | Full-stack doctor–patient records portal, shipped with a portable SQL dump so it runs anywhere. | `React` `Express` `TypeScript` `MySQL` |
-| **[DoctorPortal-Backend](https://github.com/josephevenson08/DoctorPortal-Backend)** | Posd project backend / `scrypt` password hashing, session-protected routes, and an audit trail. | `TypeScript` `Node.js` `MySQL` |
-| **[CapstoneIoT](https://github.com/josephevenson08/CapstoneIoT)** | Capstone — smart keypad + lock system prototyped in Wokwi (online sim). ESP32 sketch for passcode entry and lock control, a prototype app, and a demo video. | `C++` `ESP32` `IoT` |
-| **[IoT-Home-Automation](https://github.com/josephevenson08/IoT-Home-Automation-Mid-Term-1)** | ESP32 home automation rig — DHT22 temp/humidity sensor, 4x relay module, PIR motion sensor, and all the code behind it. | `Python` `ESP32` `IoT` |
-
-<br>
-
-## WiP (Projects that are Me)
-
-### Summer 2026 is when I really went and did things I wanted to do, things I've thought about in the past.
-
-#### <strong>TunezBot</strong> came up one night while in call on discord when our music bot wasn't working the way my friends and I wanted it to so I thought to myself, I wonder if I could make my own. This has developed into a working bot, and I think I can say I have a pretty good handle on how to do it.
-
-#### <strong>ProjectDefeat</strong> is something that I've wanted for over a year now. I wanted something that I could have where I could get all the information I wanted for when I was playing the game. This is something I work on when I do not have work or school and what I think is something I can be very proud of one day.
-
-#### <strong>wow tbc anniversary marks of the illidari-calculator</strong> is a calculator for distributing marks of the illidari, an in game item from world of warcraft tbc phase 3, this is useful because it makes the distribution of the marks much more fair.
-
-### These are the things I'm working on, + this personal profile README, but more things, are for sure, to come.
-
-<br>
-
-| Project | What it is | Stack |
-|:--|:--|:--|
-| **[TunezBot](https://github.com/josephevenson08/TunezBot)** | Discord music bot with Raspberry Pi 24/7 setup: slash commands, queue control, loop, YouTube search + playback. Suspected complete development, but still being worked on as more changes and features are added. | `JavaScript` `Node.js` `Raspberry Pi` |
-| **[project-defeat](https://github.com/josephevenson08/project-defeat)** | All in one stop for TBC Anniversary information / BiS Planner / Guides / Farming / Sims / etc. All 9 classes, 27 specs, 40+ guides and counting. | `JavaScript` `Python` `Web` |
-| **[illidari-marks](https://github.com/josephevenson08/illidari-marks)** | Raid consumable audit + fair Marks of the Illidari split from Warcraft Logs | `JavaScript` `Python` |
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFqbXNydndlZ2Rtem4xc3dicW1jZHRhZGx1anY5aWlpNXV1a201dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3q2tzon8OCC7BqmY/giphy.gif" width="50%" />
-
-</div>
-
----
-
-# Connect With Me (I'll respond, I swear)
+## Current Focus
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Hardware-ESP32%20%2F%20Raspberry%20Pi-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Networking-Security%20Fundamentals-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fullstack-Web%20Apps-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-Home%20Systems-F59E0B?style=for-the-badge" />
+</p>
 
-<a href="mailto:josephevenson37@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+I’m especially interested in:
+- practical hardware projects
+- secure and reliable backend systems
+- useful automation
+- game-inspired tools and personal builds
 
+---
+
+## Selected Projects
+
+| Project | Description | Stack |
+|:--|:--|:--|
+| **[Posd](https://github.com/josephevenson08/Posd)** | Full-stack medical records portal with a portable SQL dump making it easy to run almost anywhere. | `React` `Express` `TypeScript` `MySQL` |
+| **[DoctorPortal-Backend](https://github.com/josephevenson08/DoctorPortal-Backend)** | Backend for the Posd ecosystem with authentication, protected routes, and audit tracking. | `TypeScript` `Node.js` `Express` |
+| **[CapstoneIoT](https://github.com/josephevenson08/CapstoneIoT)** | Smart keypad + lock system prototype with embedded control logic and simulation testing. | `ESP32` `C++` `IoT` |
+| **[IoT-Home-Automation](https://github.com/josephevenson08/IoT-Home-Automation-Mid-Term-1)** | Home automation setup built around sensors, relays, and practical smart-control logic. | `ESP32` `Sensors` `Automation` |
+
+### Personal Projects
+- **TunezBot** — Discord music bot built for real use with queue control, playback, and Raspberry Pi deployment.
+- **ProjectDefeat** — personal all-in-one project covering TBC Anniversary tools, guides, class planning, and utility.
+- **illidari-marks** — raid consumable tracker and Marks of the Illidari distribution helper.
+
+---
+
+## Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+</p>
+
+---
+
+## Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=josephevenson08&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephevenson08&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+## Principle
+
+I like building projects that:
+- solve a real problem
+- are practical
+- teach me something new
+- turn weird ideas into working systems
+
+I’m not just building for the sake of it — I like making something that works, feels intentional, and actually matters.
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="mailto:josephevenson37@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <div align="center">
 
-<br>
+<img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="18%" />
 
-### Check back often to see more updates!
-
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MW55eHB0ZHN2OW5zaHdub2N1ZTZ4NTI1empsczM3OW1pZ2VyMXlmbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cFdHXXm5GhJsc/giphy.gif" width="50%" />
+### Check back often — I’m always building something.
 
 </div>
