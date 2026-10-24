@@ -2,50 +2,96 @@
 
 # Joseph Evenson
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVwYWszM3EyazRiOWx6bnl3ZTFoOXNrMWVkbmVnOTA3dGJ1Ymk4ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f31DK1KpGsyMU/giphy.gif" width="50%" />
-<br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVwYWszM3EyazRiOWx6bnl3ZTFoOXNrMWVkbmVnOTA3dGJ1Ymk4ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f31DK1KpGsyMU/giphy.gif" width="48%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Information+Systems+B.S.;Computer+Science+M.S.;Information+Technology;Cool+Personal+Projects;)](https://git.io/typing-svg)
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Partial+AI+Driven+Projects;Reinforcer+of+Basics;;Raspberry+Pi+Learner;Networks;)](https://git.io/typing-svg)
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Claude;ChatGPT;Grok;Odysseus;Copilot;Codex;Obsidian;)](https://git.io/typing-svg)
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Information+Systems+B.S.;Computer+Science+M.S.;Information+Technology+%7C+Systems+%7C+Security;Hardware+%7C+Networking+%7C+Web+Development)](https://github.com/josephevenson08)
 
 </div>
 
 ---
 
-```yaml
-Name: Joseph Evenson
+<div align="center">
 
-Education:
-  - Missouri Southern State University (B.S.) (Graduated May 2025, Information Technology)
-  - Saint Louis University (M.S.) (Expected Graduation May 2027, Computer Science)
+<p>
+  <strong>Student builder, systems thinker, and full-stack tinkerer.</strong><br>
+  I like solving real problems with code, hardware, and just enough chaos to make the projects interesting.
+</p>
 
-Focus:
-  - Interested in Hardware limitations
-  - Networking / Blue Team
-  - Web Development
+</div>
 
-Languages:
-  - Python
-  - JavaScript
-  - SQL
-  - C#
+## About Me
 
-Fun Fact:
-  I enjoy building projects that solve my real-world needs.
-  I also enjoy building projects based off games I play.
-```
+I am a technology-focused student currently pursuing:
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTkzejUydjVzeW1na3drZXR6bmRqcDhxMGJvd3hhM3N4ODV5YjhmYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OzUCnzwGrbG4PmMUUr/giphy.gif" width="25%" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWQ0ZGVzZDlhcmhzYXFtb2Y3Y2l2cDQ0cmkzbWxwZmczaWJoM3hhYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7VxvaukLmaCWI/giphy.gif" width="44%" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDluaWc0bjV1cHR4d3dyOW55NWxnc3Jja3YxNjltMHYyeXBhejhkaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/toXKzaJP3WIgM/giphy.gif" width="30%" />
+- B.S. in Information Technology — Missouri Southern State University (Graduated May 2025)
+- M.S. in Computer Science — Saint Louis University (Expected May 2027)
+
+My interests sit at the intersection of:
+
+- Hardware constraints and embedded systems
+- Networking and blue-team/security-minded infrastructure
+- Full-stack web development
+- Building practical tools that improve my workflow and fit my hobbies
+
+I enjoy building projects that solve real-world issues, especially when they grow out of a personal need or a game I love.
 
 ---
 
-# GitHub Metrics
+## Core Focus
+
+- Python, JavaScript, TypeScript, SQL, C#
+- Web apps and APIs
+- Raspberry Pi projects and home automation
+- Network-adjacent systems and security fundamentals
+- Building things that are useful, playful, and a little weird in the best way
+
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTkzejUydjVzeW1na3drZXR6bmRqcDhxMGJvd3hhM3N4ODV5YjhmYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OzUCnzwGrbG4PmMUUr/giphy.gif" width="22%" />
+</div>
+
+---
+
+## Featured Projects
+
+### Education + Applied Work
+
+| Project | Description | Stack |
+|:--|:--|:--|
+| **[Posd](https://github.com/josephevenson08/Posd)** | Full-stack doctor–patient records portal with portable SQL setup for easy deployment. | `React` `Express` `TypeScript` `MySQL` |
+| **[DoctorPortal-Backend](https://github.com/josephevenson08/DoctorPortal-Backend)** | Backend for the Posd project with password hashing, protected routes, and audit logging. | `TypeScript` `Node.js` `MySQL` |
+| **[CapstoneIoT](https://github.com/josephevenson08/CapstoneIoT)** | Smart keypad and lock system prototype with ESP32, secure passcode flow, and lock control logic. | `C++` `ESP32` `IoT` |
+| **[IoT-Home-Automation](https://github.com/josephevenson08/IoT-Home-Automation-Mid-Term-1)** | Home automation project using Raspberry Pi and multiple sensors for control and monitoring. | `Python` `ESP32` `IoT` `Sensors` |
+
+### Personal / Passion Projects
+
+I started taking my ideas seriously in 2026 and building projects that actually fit how I use technology in real life.
+
+- **TunezBot** — a Discord music bot built for a more flexible, dependable listening experience with queue control, loop, and playback features.
+- **ProjectDefeat** — an all-in-one resource hub for TBC Anniversary content, guides, sims, class info, and planning tools.
+- **Illidari Marks Calculator** — a tool for distributing Marks of the Illidari fairly and tracking raid consumption.
+
+| Project | What it does | Stack |
+|:--|:--|:--|
+| **[TunezBot](https://github.com/josephevenson08/TunezBot)** | Discord music bot with Raspberry Pi 24/7 hosting, slash commands, queue management, and playback support. | `JavaScript` `Node.js` `Raspberry Pi` |
+| **[project-defeat](https://github.com/josephevenson08/project-defeat)** | TBC Anniversary resource center with guides, planner tools, farming information, and class builds. | `JavaScript` `Python` `Web` |
+| **[illidari-marks](https://github.com/josephevenson08/illidari-marks)** | Consumable audit and fair mark distribution calculator for WoW raid content. | `JavaScript` `Python` |
+
+---
+
+## What I'm Building Right Now
+
+This is the part of my GitHub that reflects my personality best:
+
+- I build tools that make my life easier.
+- I build things inspired by games I play.
+- I enjoy learning by shipping instead of waiting until something feels "perfect."
+- I like mixing practical engineering with personal creativity.
+
+> I’m still early in the journey, but I’ve been putting more intentional energy into projects that are genuinely useful, interesting, and personal.
+
+---
+
+## GitHub Metrics
 
 <div align="center">
 
@@ -55,8 +101,7 @@ Fun Fact:
 
 ---
 
-
-# 📅 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -70,60 +115,21 @@ Fun Fact:
 
 ---
 
-<h1>Projects</h1>
-<h2>Projects I've done for Education</h2>
-<br>
-
-| Project | What it is | Stack |
-|:--|:--|:--|
-| **[Posd](https://github.com/josephevenson08/Posd)** | Full-stack doctor–patient records portal, shipped with a portable SQL dump so it runs anywhere. | `React` `Express` `TypeScript` `MySQL` |
-| **[DoctorPortal-Backend](https://github.com/josephevenson08/DoctorPortal-Backend)** | Posd Project Backend / `scrypt` password hashing, session-protected routes, and an audit trail. | `TypeScript` `Drizzle ORM` `MySQL` |
-| **[CapstoneIoT](https://github.com/josephevenson08/CapstoneIoT)** | Capstone — smart keypad + lock system prototyped in Wokwi(online sim). ESP32 sketch for passcode entry and lock control, a Python log server, Blynk cloud monitoring, ML anomaly detection over the attempt logs, and results dashboarded in Power BI. | `Python` `C++` `ESP32` `Wokwi` `Blynk` `Power BI` |
-| **[IoT-Home-Automation](https://github.com/josephevenson08/IoT-Home-Automation-Mid-Term-1)** | ESP32 home automation rig — DHT22 temp/humidity sensor, 4x relay module, PIR motion sensor, and a 16x2 I2C LCD. | `C++` `ESP32` `Arduino` |
-<br>
-
-
-<h2> WiP (Projects that are Me)</h2>
-<h3> Summer 2026 is when I really went and did things I wanted to do, things I've thought about in the past. </h3>
-<h4> <strong> TunezBot </strong> came up one night while in call on discord when our music bot wasn't working the way my friends and I wanted it to so I thought to myself, I wonder if I could make a music bot. Things went from there. TunezBot should be done soon hopefully for this project. </h4>
-<h4> <strong> ProjectDefeat </strong> is something that I've wanted for over a year now. I wanted something that I could have where I could get all the information I wanted for when I was playing World of Warcraft with my buddies. That said, this project will always be a work in progress but it is mostly just a way to keep my skills up to date and also keep my knowledge of the game up to date as well. I wanted to combine something I love doing with something I could do, aka development. </h4>
-<h4> <strong> wow tbc anniversary marks of the illidari-calculator </strong> is a calculator for distributing marks of the illidari, an in game item from world of warcraft tbc phase 3, this is used by the officals of a raid team to calculate distribution of this in game item back to their raid team. </h4>
-  
-<h3>These are the things I'm working on, + this personal profile README, but more things, are for sure, to come. </h3>
-
-<br>
-
-| Project | What it is | Stack |
-|:--|:--|:--|
-| **[TunezBot](https://github.com/josephevenson08/TunezBot)** | Discord music bot with Raspberry Pi 24/7 setup: slash commands, queue control, loop, YouTube search + playback. Suspected complete date is Early September 2026 | `JavaScript` `discord.js` |
-| **[project-defeat](https://github.com/josephevenson08/project-defeat)** | All in one stop for TBC Anniversary information / BiS Planner / Guides / Farming / Sims / etc. All 9 classes, 27 specs, socket + enchant + crafting-recipe metadata. | `React` `TypeScript` `Vite` |
-| **[illidari-marks](https://github.com/josephevenson08/illidari-marks)** | Raid consumable audit + fair Marks of the Illidari split from Warcraft Logs | `JavaScript` `Python` |
-
-
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFqbXNydndlZ2Rtem4xc3dicW1jZHRhZGx1anY5aWlpNXV1a201dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3q2tzon8OCC7BqmY/giphy.gif" width="50%" />
-
-</div>
-
----
-
-# Connect With Me (I'll respond, I swear)
+## Connect
 
 <p align="center">
-
-<a href="mailto:josephevenson37@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="mailto:josephevenson37@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
+
+I’m always open to interesting projects, collaborations, or conversations about software, systems, and building cool things.
 
 ---
 
 <div align="center">
 
-<br>
-
-### Check back often to see more updates!
+### Check back often — more projects are coming.
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MW55eHB0ZHN2OW5zaHdub2N1ZTZ4NTI1empsczM3OW1pZ2VyMXlmbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cFdHXXm5GhJsc/giphy.gif" width="50%" />
 
