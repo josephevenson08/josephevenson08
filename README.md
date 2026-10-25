@@ -42,7 +42,7 @@ Languages:
   - SQL
   - C#
 
-Fun Fact:
+Fun Facts:
   I enjoy building projects that solve my real-world needs.
   I also enjoy building projects based off games I play.
 ```
