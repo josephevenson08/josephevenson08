@@ -127,8 +127,6 @@ width="25%" />
 
 </div>
 
----
-
 # Connect With Me (I'll respond, I swear)
 
 <p align="center">
@@ -138,9 +136,6 @@ width="25%" />
 </a>
 
 </p>
-
----
-
 <div align="center">
 
 
