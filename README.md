@@ -84,6 +84,9 @@ width="25%" />
 
 # Projects
 
+## Main Projects
+| **[project-defeat](https://github.com/josephevenson08/project-defeat)** | All-in-one stop for TBC Anniversary information, BiS planner, guides, farming, sims, and class/spec utilities. | `JavaScript` `Python` |
+| **[Benchmarking-Defenses-against-Webscrapers](https://github.com/josephevenson08/Benchmarking-Defenses-against-Webscrapers-local-test)** benchmark testing for DOM level defenses against increasing difficulty of web scrapers . | `JavaScript` `Python` |
 ## Projects I've done for Education
 
 <br>
