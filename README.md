@@ -20,8 +20,6 @@
 
 </div>
 
-
-
 ## Profile Snapshot
 
 ```yaml
@@ -146,7 +144,6 @@ width="25%" />
 
 <div align="center">
 
-<br>
 
 ### Check back often to see more updates!
 
