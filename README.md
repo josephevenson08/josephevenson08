@@ -54,7 +54,6 @@ width="25%" />
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJ5YnV4eXNxc3F6aHJ4Z2U5bWVrcGNoeHQwbDd6cm02Z3hkeWZrMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Kqffsuchuki2s/giphy.gif"
 width="25%" />
 </div>
----
 
 ## GitHub Metrics
 
