@@ -1,9 +1,6 @@
 <div align="center">
 
 # Joseph Evenson
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVwYWszM3EyazRiOWx6bnl3ZTFoOXNrMWVkbmVnOTA3dGJ1Ymk4ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f31DK1KpGsyMU/giphy.gif" width="57%" />
-
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Information+Systems+B.S.;Computer+Science+M.S.;Information+Technology+%2B+Hardware+%2B+Software;Always+Building;Making+Ideas+Real)](https://github.com/josephevenson08)
@@ -51,7 +48,7 @@ Fun Facts:
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFqbXNydndlZ2Rtem4xc3dicW1jZHRhZGx1anY5aWlpNXV1a201dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3q2tzon8OCC7BqmY/giphy.gif" width="25%" />
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3NvcXpkMnkyM2Mwa25ndGN6NWt4bXkwMTQ4ZWFvZXQwdXFjeXg5dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MU18c4mGUtrZIA883W/giphy.gif"
 width="25%" />
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJ5YnV4eXNxc3F6aHJ4Z2U5bWVrcGNoeHQwbDd6cm02Z3hkeWZrMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Kqffsuchuki2s/giphy.gif"
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVwYWszM3EyazRiOWx6bnl3ZTFoOXNrMWVkbmVnOTA3dGJ1Ymk4ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f31DK1KpGsyMU/giphy.gif"
 width="25%" />
 </div>
 
