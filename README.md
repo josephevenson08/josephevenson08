@@ -1,6 +1,6 @@
 <div align="center">
 
-# Joseph Evenson
+# Joseph D. Evenson
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Information+Systems+B.S.;Computer+Science+M.S.;Information+Technology+%2B+Hardware+%2B+Software;Always+Building;Making+Ideas+Real)](https://github.com/josephevenson08)
